@@ -1,0 +1,51 @@
+id,question,reponse,document,page,type
+q001,Quels sont les frais d'accès au réseau par jour au tarif D ?,"46,154 ¢ par jour",tarifs-2026,14,chiffre
+q002,Quel est le prix du kilowattheure au tarif D pour la première tranche de consommation ?,"7,065 ¢ le kWh, jusqu'à 40 kWh multipliés par le nombre de jours de la période",tarifs-2026,14,chiffre
+q003,Quel est le prix du kilowattheure au tarif D au-delà de la première tranche ?,"11,142 ¢ le kWh",tarifs-2026,14,chiffre
+q004,Quelle est la limite de puissance pour avoir droit au tarif domestique D ?,Puissance maximale appelée inférieure à 65 kW pendant les 12 périodes mensuelles consécutives précédentes,tarifs-2026,14,condition
+q005,À qui s'applique le tarif DT ?,"Aux clients admissibles à un tarif domestique qui utilisent un système biénergie conforme (électricité comme source principale, combustible en appoint)",tarifs-2026,22,condition
+q006,Qu'est-ce qu'une petite puissance selon les tarifs ?,Une puissance qui n'est facturée qu'au-delà de 50 kW,tarifs-2026,11,définition
+q007,Quelle capacité d'autoproduction maximale permet l'option de mesurage net I ?,1 000 kW au maximum,tarifs-2026,26,chiffre
+q008,"Quand Hydro-Québec accepte un paiement en 2 versements, quel est l'intervalle entre les versements ?","21 jours, sans frais d'administration ; le premier est dû au plus tard 21 jours après la date de facturation",conditions-service-2026,23,procédure
+q009,Avant quelle date faut-il demander l'option d'électricité interruptible avec préavis ?,"Avant le 1er octobre, par écrit, en indiquant la puissance interruptible",tarifs-2026,135,procédure
+q010,À quoi a droit un client alimenté en moyenne ou haute tension qui transforme lui-même l'électricité ?,À un crédit mensuel en dollars par kilowatt sur la prime de puissance (crédit d'alimentation),tarifs-2026,152,définition
+q011,Quel est le prix du gaz naturel chez Énergir ?,NON_COUVERT,,,hors corpus
+q012,Combien coûte l'installation d'une borne de recharge pour véhicule électrique chez soi ?,NON_COUVERT,,,hors corpus
+q013,"Au tarif DT, combien je paie le kWh quand il fait très froid dehors ?","30,001 ¢ le kWh quand la température est inférieure à −12 °C ou −15 °C selon la zone climatique",tarifs-2026,23,chiffre
+q014,"Au tarif biénergie DT, quel est le prix du kWh le reste du temps ?","5,131 ¢ le kWh quand la température est égale ou supérieure à −12 °C ou −15 °C selon la zone climatique",tarifs-2026,23,chiffre
+q015,"Avec Flex D, à quelles heures sont les périodes de pointe ?","Entre 6 h et 10 h et entre 16 h et 20 h en période d'hiver, sauf les 24, 25, 26 et 31 décembre, les 1er et 2 janvier, le Vendredi saint et le lundi de Pâques",tarifs-2026,33,définition
+q016,Comment je m'inscris au tarif Flex D ?,"Dans l'Espace client sur hydroquebec.com, sur hiloenergie.com ou auprès des Services à la clientèle ; Hydro-Québec répond par écrit dans les 5 jours ouvrables",tarifs-2026,33,procédure
+q017,"Avec Flex D, combien d'événements de pointe peut-il y avoir par jour et combien d'heures au total dans l'hiver ?","Au plus 2 événements par jour, de 4 heures chacun, avec 6 heures minimum entre deux, et au plus 120 heures par période d'hiver",tarifs-2026,34,chiffre
+q018,J'ai combien de temps pour payer ma facture d'électricité ?,"Au plus tard 21 jours après la date de facturation, en dollars canadiens",conditions-service-2026,23,chiffre
+q019,"Hydro-Québec me doit de l'argent, est-ce que je peux le déduire de ma facture ?","Non, on ne peut pas déduire une somme due par Hydro-Québec ou liée à une réclamation",conditions-service-2026,23,condition
+q020,Dans quels cas Hydro-Québec peut exiger un dépôt pour mon logement ?,Si un avis de retard pour défaut de paiement a été transmis ou si on a eu recours à la Loi sur la faillite et l'insolvabilité dans les 24 mois précédents,conditions-service-2026,32,condition
+q021,Est-ce qu'Hydro-Québec peut me couper l'électricité en plein hiver si je ne paie pas ?,Non pour une résidence principale chauffée à l'électricité entre le 1er décembre et le 31 mars : elle n'interrompt pas le service et le rétablit sur demande,conditions-service-2026,37,condition
+q022,La protection contre les coupures en hiver va de quelle date à quelle date ?,Du 1er décembre au 31 mars inclusivement,conditions-service-2026,37,chiffre
+q023,Quel est le taux des frais d'administration si le taux préférentiel de la Banque Nationale est sous 8 % ?,"1,2 % par mois (14,4 % par an) quand le taux préférentiel est de 7,99 % ou moins",conditions-service-2026,110,chiffre
+q024,C'est quoi un compteur non communicant ?,Un compteur d'électricité sans émission de radiofréquences,conditions-service-2026,132,définition
+q025,C'est quoi un compteur communicant ?,Un compteur à communication bidirectionnelle qui reçoit et envoie de l'information par radiofréquences ou par liaison téléphonique,conditions-service-2026,132,définition
+q026,"Ma maison consomme beaucoup, à partir de quand je passe au tarif DP ?",Quand la puissance maximale appelée a été d'au moins 50 kW au cours d'une des 12 périodes mensuelles,tarifs-2026,17,condition
+q027,"Le tarif DM, c'est pour qui ?",Abonnements admissibles au 31 mai 2009 pour un immeuble collectif d'habitation ou une résidence communautaire avec mesurage collectif,tarifs-2026,19,condition
+q028,"Pour un petit commerce au tarif G, combien sont les frais fixes chaque mois ?","15,426 $ de frais d'accès au réseau",tarifs-2026,37,chiffre
+q029,Combien coûte le kWh au tarif G ?,"12,388 ¢ pour les 15 090 premiers kWh, puis 9,534 ¢",tarifs-2026,37,chiffre
+q030,Qui a droit au tarif général G ?,Un abonnement de petite puissance dont la puissance à facturer minimale est inférieure à 65 kW,tarifs-2026,37,condition
+q031,Est-ce que le tarif G s'applique à une borne de recharge rapide pour voitures électriques ?,"Non, pas pour une borne de 400 V ou plus à courant continu",tarifs-2026,37,condition
+q032,Quel est le montant minimal d'une facture au tarif G en triphasé ?,"46,278 $ par mois (15,426 $ en monophasé)",tarifs-2026,37,chiffre
+q033,"Au tarif M, combien coûte la puissance ?","18,242 $ le kilowatt de puissance à facturer",tarifs-2026,47,chiffre
+q034,"Au tarif M, quel est le prix de l'énergie ?","6,292 ¢ le kWh pour les 210 000 premiers kWh, puis 4,666 ¢",tarifs-2026,47,chiffre
+q035,Qui doit être au tarif M ?,Un abonnement de moyenne puissance dont la puissance maximale appelée a été d'au moins 50 kW au cours d'une des 12 périodes mensuelles,tarifs-2026,47,condition
+q036,"Avec Flex D, combien je paie le kWh l'hiver en dehors des pointes ?","4,886 ¢ jusqu'à 40 kWh par jour de la période, puis 9,103 ¢",tarifs-2026,34,chiffre
+q037,"Avec Flex D, comment je suis prévenu d'un événement de pointe ?","Par courriel ou notification poussée (ou autre moyen convenu), avant 15 h la veille ; l'avis est aussi affiché sur hydroquebec.com",tarifs-2026,34,procédure
+q038,Qui peut avoir l'option de crédit hivernal ?,Un abonnement au tarif D auquel l'option s'appliquait au 31 mars 2026 et dont le responsable peut réduire sa consommation pendant les heures de pointe,tarifs-2026,30,condition
+q039,"J'ai des panneaux solaires, quelle option me permet d'utiliser mes surplus ?","L'option de mesurage net pour autoproducteur (option I), aux tarifs D, DM ou DP, pour une capacité d'autoproduction d'au plus 1 000 kW",tarifs-2026,26,condition
+q040,"Dans le mesurage net, c'est quoi la banque de surplus ?",Une banque où s'additionnent les surplus nets et se soustraient les consommations nettes,tarifs-2026,26,définition
+q041,"Je cultive des plantes sous éclairage, y a-t-il une option pour moi ?","L'option d'électricité additionnelle pour l'éclairage de photosynthèse ou le chauffage d'espaces de culture, aux tarifs D, DP ou DM, si la puissance maximale appelée a atteint au moins 50 kW",tarifs-2026,29,condition
+q042,Peut-on combiner l'option d'électricité additionnelle avec le tarif Flex D ?,"Non, ni avec Flex D ni avec l'option de crédit hivernal",tarifs-2026,29,condition
+q043,"Au tarif DT, quelle est la puissance à facturer minimale ?",65 % de la puissance maximale appelée pendant une période de consommation entièrement en hiver dans les 12 derniers mois,tarifs-2026,23,chiffre
+q044,"Au tarif DT, combien coûte la puissance ?","7,266 $ par mois le kW de puissance à facturer au-delà du seuil de facturation",tarifs-2026,23,chiffre
+q045,"Après une demande d'option d'électricité interruptible, Hydro-Québec répond en combien de temps ?","30 jours, par écrit",tarifs-2026,135,chiffre
+q046,Le tarif D s'applique-t-il à un gîte ou une auberge touristique ?,"Non, il ne s'applique pas aux établissements d'hébergement touristique général ou jeunesse",tarifs-2026,14,condition
+q047,Combien coûte un abonnement Internet chez Hydro-Québec ?,NON_COUVERT,,,hors corpus
+q048,Quel est le prix de l'électricité en Ontario ?,NON_COUVERT,,,hors corpus
+q049,Quelles subventions existent pour isoler ma maison ?,NON_COUVERT,,,hors corpus
+q050,Comment changer mon mot de passe dans l'Espace client ?,NON_COUVERT,,,hors corpus

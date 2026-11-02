@@ -1,0 +1,161 @@
+id,question,passage_id,document,page
+t001,Comment Hydro-Québec définit-elle un « jour » dans les Conditions de service ? Est-ce que les jours fériés comptent ?,conditions-service-2026-p134-1,conditions-service-2026,134
+t002,"Si je résilie mon abonnement annuel et que j'en reprends un autre au même endroit quelques mois plus tard, est-ce considéré comme le même abonnement pour la puissance souscrite ?",tarifs-2026-p63-1,tarifs-2026,63
+t003,"Combien d'avis d'essai Hydro-Québec envoie-t-elle pour tester la transmission des avis d'événement de pointe, et à quelles dates ?",tarifs-2026-p97-1,tarifs-2026,97
+t004,Comment est calculé le coût des équipements de sectionnement à usage partagé pour une demande d'alimentation ?,conditions-service-2026-p150-0,conditions-service-2026,150
+t005,"Quelles conditions faut-il remplir pour profiter du mesurage net pour autoproducteur, option I ?",tarifs-2026-p27-0,tarifs-2026,27
+t006,Quel est le prix au kilowatt de puissance interruptible effective pour la sous-option VI ?,tarifs-2026-p88-1,tarifs-2026,88
+t007,Que se passe-t-il quand la puissance réelle est plus basse que la puissance à facturer minimale pour un client au tarif L ?,tarifs-2026-p99-2,tarifs-2026,99
+t008,Quels renseignements sur les coûts variables et les prix de vente faut-il fournir pour demander le tarif de maintien de la charge ?,tarifs-2026-p80-0,tarifs-2026,80
+t009,Comment se fait l'alimentation en aérien pour une demande d'alimentation de 5 MW ou plus ?,conditions-service-2026-p105-0,conditions-service-2026,105
+t010,Qu'est-ce que la tension de fourniture en régime permanent et qu'appelle-t-on des travaux majeurs ?,conditions-service-2026-p137-2,conditions-service-2026,137
+t011,Quel est le prix au kilowattheure du tarif CB de moyenne puissance pour l'usage cryptographique ?,tarifs-2026-p118-1,tarifs-2026,118
+t012,Comment le tarif pour usage cryptographique définit-il une chaîne de blocs ?,tarifs-2026-p117-1,tarifs-2026,117
+t013,À quelle date l'entente pour la charge interruptible additionnelle entre-t-elle en vigueur ?,tarifs-2026-p92-2,tarifs-2026,92
+t014,Qu'est-ce que le service d'éclairage Sentinelle et à qui appartiennent les luminaires ?,tarifs-2026-p150-0,tarifs-2026,150
+t015,Comment la facture est-elle calculée pendant un engagement à l'option d'électricité additionnelle ?,tarifs-2026-p101-0,tarifs-2026,101
+t016,Combien coûte le mesurage temporaire en basse tension monophasée sans transformation ?,conditions-service-2026-p127-0,conditions-service-2026,127
+t017,Dans quels cas Hydro-Québec peut-elle encaisser la garantie financière que j'ai fournie pour un engagement de puissance ?,conditions-service-2026-p70-0,conditions-service-2026,70
+t018,Comment Hydro-Québec calcule-t-elle le coût d'une ligne souterraine à usage exclusif ?,conditions-service-2026-p151-1,conditions-service-2026,151
+t019,Quels frais initiaux sont facturés quand je demande l'installation d'un compteur non communicant ?,conditions-service-2026-p20-0,conditions-service-2026,20
+t020,Qu'est-ce que la période de transition dans le tarif de développement économique ?,tarifs-2026-p104-2,tarifs-2026,104
+t021,Que se passe-t-il si mon paiement est refusé pour provision insuffisante ?,conditions-service-2026-p24-1,conditions-service-2026,24
+t022,"Comment Hydro-Québec avise-t-elle un client d'une période de restriction, et que se passe-t-il si personne ne répond ?",tarifs-2026-p120-1,tarifs-2026,120
+t023,Quelle est la limite de courant pour une alimentation triphasée en moyenne tension ?,conditions-service-2026-p92-1,conditions-service-2026,92
+t024,Y a-t-il des frais spéciaux pour un raccordement à un réseau autonome au nord du 53e parallèle ?,conditions-service-2026-p62-1,conditions-service-2026,62
+t025,Quel est le prix de la puissance au tarif LD option ferme ?,tarifs-2026-p73-0,tarifs-2026,73
+t026,Comment calcule-t-on le montant à payer pour une alimentation en monophasé selon le nombre de bâtiments ?,conditions-service-2026-p58-0,conditions-service-2026,58
+t027,Combien coûtent les travaux de sécurisation du réseau demandés par le client pour un bâtiment de 4 logements ou moins ?,conditions-service-2026-p112-0,conditions-service-2026,112
+t028,"Quel est le montant pour l'installation ou l'enlèvement d'un coupe-circuit, main-d'œuvre seulement ?",conditions-service-2026-p117-0,conditions-service-2026,117
+t029,Quelle est la redevance annuelle au tarif LP et Hydro-Québec peut-elle refuser la livraison ?,tarifs-2026-p76-1,tarifs-2026,76
+t030,Quelles sont les heures de pointe pour l'option de crédit hivernal au tarif G ?,tarifs-2026-p41-0,tarifs-2026,41
+t031,Le tarif D s'applique-t-il aux espaces communs d'un immeuble et aux maisons de chambres ?,tarifs-2026-p15-1,tarifs-2026,15
+t032,Comment fonctionne la méthode du calcul détaillé du coût des travaux pour une demande d'alimentation ?,conditions-service-2026-p53-0,conditions-service-2026,53
+t033,Comment le prix de la 2e tranche d'énergie évolue-t-il au tarif biénergie du réseau d'Inukjuak ?,tarifs-2026-p142-0,tarifs-2026,142
+t034,Dans quels cas un client au tarif L peut-il obtenir un crédit pour une interruption de la fourniture d'électricité ?,tarifs-2026-p66-0,tarifs-2026,66
+t035,Que contient l'entente de réalisation de travaux majeurs ?,conditions-service-2026-p65-1,conditions-service-2026,65
+t036,Comment est calculée l'électricité supplémentaire dans l'option d'électricité additionnelle ?,tarifs-2026-p111-1,tarifs-2026,111
+t037,"Pendant le rodage de nouveaux équipements, comment l'énergie consommée est-elle facturée ?",tarifs-2026-p114-0,tarifs-2026,114
+t038,Quel est le prix par mètre pour prolonger une ligne aérienne en moyenne tension ?,conditions-service-2026-p114-0,conditions-service-2026,114
+t039,Où le client peut-il voir le détail du crédit Latitude et peut-il annuler l'option ?,tarifs-2026-p98-0,tarifs-2026,98
+t040,Quand dois-je confirmer à Hydro-Québec que j'accepte de payer des travaux relatifs aux interventions simples ?,conditions-service-2026-p64-0,conditions-service-2026,64
+t041,Comment est compensé le coût d'un transformateur conçu pour recevoir du 25 kV ?,conditions-service-2026-p144-1,conditions-service-2026,144
+t042,Combien d'événements de pointe par jour au maximum peut-il y avoir au tarif Flex G ?,tarifs-2026-p44-0,tarifs-2026,44
+t043,"Combien coûte l'installation ou l'enlèvement d'un poteau, d'un hauban ou d'un ancrage ?",conditions-service-2026-p116-0,conditions-service-2026,116
+t044,Le montant à payer pour les travaux requis peut-il faire l'objet d'une allocation ?,conditions-service-2026-p60-2,conditions-service-2026,60
+t045,Avec quel préavis peut-on mettre fin à l'entente du service Signature ?,tarifs-2026-p158-1,tarifs-2026,158
+t046,"Si mon niveau de risque s'améliore grâce à une meilleure cote de crédit, Hydro-Québec me rembourse-t-elle ?",conditions-service-2026-p99-0,conditions-service-2026,99
+t047,Comment cesser de se prévaloir des modalités de rodage de nouveaux équipements ?,tarifs-2026-p115-0,tarifs-2026,115
+t048,Quelle est la puissance à facturer minimale au tarif biénergie d'Inukjuak ?,tarifs-2026-p141-1,tarifs-2026,141
+t049,"Dans l'option d'électricité additionnelle, quelle puissance à facturer utilise-t-on ?",tarifs-2026-p107-1,tarifs-2026,107
+t050,Que se passe-t-il si une baisse de puissance souscrite rend mon abonnement inadmissible au tarif L ?,tarifs-2026-p65-2,tarifs-2026,65
+t051,Qu'est-ce qu'une maison de chambres selon les Conditions de service ?,conditions-service-2026-p135-0,conditions-service-2026,135
+t052,Quels frais s'appliquent si je refuse de donner accès à mon compteur pour qu'il soit remplacé par un compteur communicant ?,conditions-service-2026-p84-0,conditions-service-2026,84
+t053,Quel prix s'applique à l'électricité additionnelle utilisée pour l'éclairage de photosynthèse ou le chauffage de serres ?,tarifs-2026-p103-0,tarifs-2026,103
+t054,Que se passe-t-il pour un client qui a en même temps l'option d'électricité additionnelle et l'option GDP Engagement ?,tarifs-2026-p102-0,tarifs-2026,102
+t055,"Quel tarif s'applique à l'électricité d'une dépendance (garage, remise) d'un logement ?",tarifs-2026-p16-0,tarifs-2026,16
+t056,Quel est le prix par mètre de câble souterrain en basse tension ?,conditions-service-2026-p122-0,conditions-service-2026,122
+t057,Qu'est-ce qui est inclus dans le service de base quand il faut prolonger une ligne aérienne sur une emprise publique ?,conditions-service-2026-p49-1,conditions-service-2026,49
+t058,Quelles sont mes obligations concernant le facteur de puissance de mon installation électrique ?,conditions-service-2026-p90-0,conditions-service-2026,90
+t059,Quelles conditions faut-il respecter pour que ma demande de compteur non communicant soit acceptée ?,conditions-service-2026-p19-1,conditions-service-2026,19
+t060,À partir de quelle puissance à facturer minimale le tarif CB de grande puissance s'applique-t-il ?,tarifs-2026-p119-2,tarifs-2026,119
+t061,Hydro-Québec peut-elle exiger un dépôt lorsque je fais une demande d'abonnement ?,conditions-service-2026-p18-1,conditions-service-2026,18
+t062,Qui paie les ouvrages civils situés hors de la propriété desservie ?,conditions-service-2026-p46-0,conditions-service-2026,46
+t063,Quel remboursement est offert à un réseau municipal au tarif LG ?,tarifs-2026-p69-0,tarifs-2026,69
+t064,Comment le crédit variable est-il calculé pour l'option d'électricité interruptible avec préavis ?,tarifs-2026-p136-0,tarifs-2026,136
+t065,Dans quels cas Hydro-Québec peut-elle refuser ma demande de résiliation d'abonnement ?,conditions-service-2026-p29-0,conditions-service-2026,29
+t066,Quand les travaux sur mon installation doivent-ils être terminés avant la conversion de tension en moyenne tension ?,conditions-service-2026-p93-2,conditions-service-2026,93
+t067,Les cégeps et les commissions scolaires font-ils partie des organismes publics définis dans les Conditions de service ?,conditions-service-2026-p143-2,conditions-service-2026,143
+t068,Comment les prix de l'énergie du tarif MA sont-ils révisés dans les réseaux autonomes ?,tarifs-2026-p130-0,tarifs-2026,130
+t069,Qu'est-ce que la provision pour l'exploitation et l'entretien futurs dans le calcul des coûts ?,conditions-service-2026-p148-0,conditions-service-2026,148
+t070,Hydro-Québec peut-elle installer ses équipements gratuitement sur ma propriété ?,conditions-service-2026-p82-0,conditions-service-2026,82
+t071,Que se passe-t-il quand je demande un compteur communicant alors que j'avais des frais de relève ?,conditions-service-2026-p21-0,conditions-service-2026,21
+t072,Que se passe-t-il si la somme du courant maximal appelé dépasse la limite pour une alimentation en 347/600 V ?,conditions-service-2026-p91-0,conditions-service-2026,91
+t073,À partir de quelle puissance à facturer minimale passe-t-on du tarif G au tarif M ou G9 ?,tarifs-2026-p38-0,tarifs-2026,38
+t074,Comment est calculé le montant pour le prolongement d'une ligne de distribution aérienne ?,conditions-service-2026-p61-1,conditions-service-2026,61
+t075,À quels abonnements s'applique le tarif à forfait F pour usage général ?,tarifs-2026-p143-0,tarifs-2026,143
+t076,Y a-t-il des frais minimaux en cas d'abandon d'une demande d'alimentation ?,conditions-service-2026-p68-1,conditions-service-2026,68
+t077,Qui assume le coût des travaux sur mon installation électrique lors d'une conversion de tension ?,conditions-service-2026-p94-0,conditions-service-2026,94
+t078,Qu'est-ce que l'appel de propositions A/P 2019-01 et qu'entend-on par basse tension ?,conditions-service-2026-p131-2,conditions-service-2026,131
+t079,Que se passe-t-il quand la puissance maximale appelée dépasse la limite liée au facteur de puissance sous 5 000 kW ?,tarifs-2026-p67-1,tarifs-2026,67
+t080,Quels éléments doit contenir l'entente écrite pour une demande d'alimentation de 5 MW ou plus ?,conditions-service-2026-p13-1,conditions-service-2026,13
+t081,"Quels sont les composants d'un branchement du client illustrés dans les annexes (coupe-circuit, parafoudre, hauban) ?",conditions-service-2026-p153-1,conditions-service-2026,153
+t082,Que paie-t-on si la longueur du branchement en aérien dépasse 60 m ?,conditions-service-2026-p54-0,conditions-service-2026,54
+t083,Quel crédit reçoit-on pour un préavis plus court que prévu dans l'option Engagement ?,tarifs-2026-p90-0,tarifs-2026,90
+t084,Quels ratios de performance financière Hydro-Québec utilise-t-elle pour évaluer la clientèle de grande puissance ?,conditions-service-2026-p103-0,conditions-service-2026,103
+t085,Quels coûts sont exclus des coûts variables pour le tarif de maintien de la charge ?,tarifs-2026-p79-1,tarifs-2026,79
+t086,Peut-on soumettre plusieurs demandes par projet pour la réattribution du solde du bloc réservé ?,conditions-service-2026-p14-1,conditions-service-2026,14
+t087,De combien la prime de puissance du tarif G9 est-elle majorée en hiver ?,tarifs-2026-p50-0,tarifs-2026,50
+t088,Combien coûte un système d'attaches au poteau ?,conditions-service-2026-p115-0,conditions-service-2026,115
+t089,À qui s'adressent les tarifs d'éclairage public ?,tarifs-2026-p147-0,tarifs-2026,147
+t090,Qu'est-ce que le coefficient de contribution dans l'option de gestion de la demande de puissance ?,tarifs-2026-p83-1,tarifs-2026,83
+t091,Comment le multiplicateur est-il établi au tarif biénergie d'Inukjuak ?,tarifs-2026-p140-0,tarifs-2026,140
+t092,Quand la banque de surplus du mesurage net est-elle remise à zéro ?,tarifs-2026-p132-2,tarifs-2026,132
+t093,Comment est estimée la puissance de référence en semaine pour l'option Latitude ?,tarifs-2026-p95-0,tarifs-2026,95
+t094,Qui paie le prolongement d'une ligne de distribution souterraine pour une demande de moins de 5 MW ?,conditions-service-2026-p50-0,conditions-service-2026,50
+t095,Comment renouveler un engagement à l'option d'électricité additionnelle ?,tarifs-2026-p100-0,tarifs-2026,100
+t096,Peut-on transférer le solde de la banque de surplus du mesurage net à un autre abonnement ?,tarifs-2026-p133-0,tarifs-2026,133
+t097,Que se passe-t-il si je ne respecte plus les conditions du tarif DT ?,tarifs-2026-p25-1,tarifs-2026,25
+t098,Hydro-Québec peut-elle faire des activités promotionnelles sur ses modalités de service ?,conditions-service-2026-p77-0,conditions-service-2026,77
+t099,Combien coûte l'installation d'une liaison aérosouterraine en tension monophasée ?,conditions-service-2026-p121-0,conditions-service-2026,121
+t100,Dans quelles unités sont exprimées l'intensité et la tension dans les Conditions de service ?,conditions-service-2026-p138-0,conditions-service-2026,138
+t101,Quels renseignements dois-je obligatoirement fournir à Hydro-Québec pour un nouveau lieu de consommation ?,conditions-service-2026-p141-0,conditions-service-2026,141
+t102,Que fait Hydro-Québec si elle constate que mon compteur ou mon installation a été manipulé ?,conditions-service-2026-p79-0,conditions-service-2026,79
+t103,Quel est le tarif par luminaire au sodium haute pression de 100 W pour l'éclairage public ?,tarifs-2026-p149-0,tarifs-2026,149
+t104,Comment est calculé le montant pour le déplacement ou la modification d'un branchement ?,conditions-service-2026-p56-0,conditions-service-2026,56
+t105,Que fait Hydro-Québec si les cotes de crédit des agences de notation sont toutes différentes ?,conditions-service-2026-p98-0,conditions-service-2026,98
+t106,Hydro-Québec peut-elle m'envoyer ses avis par courriel ?,conditions-service-2026-p75-1,conditions-service-2026,75
+t107,À quels clients s'applique le tarif DN dans les réseaux autonomes ?,tarifs-2026-p127-0,tarifs-2026,127
+t108,Comment fonctionne le tarif DT dans un immeuble collectif avec un système biénergie ?,tarifs-2026-p24-0,tarifs-2026,24
+t109,Quel est le prix de la puissance au tarif Flex M pour un abonnement annuel ?,tarifs-2026-p58-1,tarifs-2026,58
+t110,Combien d'événements de pointe par jour pour les sous-options VII et VIII de l'option Engagement ?,tarifs-2026-p86-0,tarifs-2026,86
+t111,À qui s'applique le tarif domestique biénergie du réseau d'Inukjuak ?,tarifs-2026-p139-0,tarifs-2026,139
+t112,Comment le montant alloué est-il calculé pour une installation de 5 MW ou plus ?,conditions-service-2026-p71-1,conditions-service-2026,71
+t113,Comment compte-t-on les logements dans une résidence communautaire avec des chambres pour les réseaux autonomes ?,tarifs-2026-p128-0,tarifs-2026,128
+t114,Combien coûtent les appareils à usage exclusif en chambre porteuse ?,conditions-service-2026-p125-0,conditions-service-2026,125
+t115,Quel crédit reçoit-on pour chaque période où il y a des événements de pointe au tarif G ?,tarifs-2026-p42-1,tarifs-2026,42
+t116,Comment est établi le prix moyen pendant les essais ou le rodage d'équipements ?,tarifs-2026-p112-3,tarifs-2026,112
+t117,Comment annuler mon abonnement au tarif Flex D ?,tarifs-2026-p35-0,tarifs-2026,35
+t118,Qu'est-ce qui est inclus dans un branchement du distributeur en souterrain ?,conditions-service-2026-p48-0,conditions-service-2026,48
+t119,À quelle fréquence Hydro-Québec m'envoie-t-elle une facture ?,conditions-service-2026-p22-1,conditions-service-2026,22
+t120,Comment les tarifs mensuels sont-ils ajustés quand la période de consommation n'est pas de 30 jours ?,tarifs-2026-p154-0,tarifs-2026,154
+t121,Comment est traitée la puissance d'un chargeur de batteries de secours au tarif à forfait ?,tarifs-2026-p144-0,tarifs-2026,144
+t122,À qui est réservé le tarif de relance industrielle ?,tarifs-2026-p108-0,tarifs-2026,108
+t123,Quels frais paie-t-on pour rétablir le service après une interruption ?,conditions-service-2026-p39-0,conditions-service-2026,39
+t124,À quelle date sont établis les prix appliqués aux interventions demandées ?,conditions-service-2026-p66-0,conditions-service-2026,66
+t125,À quelles heures Hydro-Québec a-t-elle le droit d'accéder à ma propriété ?,conditions-service-2026-p83-1,conditions-service-2026,83
+t126,Comment est calculé le seuil de facturation de la puissance au tarif DM ?,tarifs-2026-p20-1,tarifs-2026,20
+t127,Comment faire une demande d'abonnement au service d'électricité ?,conditions-service-2026-p17-0,conditions-service-2026,17
+t128,Combien coûte une ligne locale souterraine monophasée pour un bâtiment autre qu'une maison individuelle ?,conditions-service-2026-p119-0,conditions-service-2026,119
+t129,Qu'est-ce qu'une entente de paiement avec Hydro-Québec ?,conditions-service-2026-p133-1,conditions-service-2026,133
+t130,Que se passe-t-il si je ne paie pas un des versements exigés ?,conditions-service-2026-p100-1,conditions-service-2026,100
+t131,À quels abonnements s'applique le tarif H ?,tarifs-2026-p71-0,tarifs-2026,71
+t132,Quels sont les frais de service généraux du tableau A.1 ?,conditions-service-2026-p109-0,conditions-service-2026,109
+t133,Quelles sont les heures de pointe en fin de semaine pour l'option Latitude ?,tarifs-2026-p94-2,tarifs-2026,94
+t134,Quelles conditions faut-il remplir pour être admissible à l'option Latitude ?,tarifs-2026-p96-0,tarifs-2026,96
+t135,Le tarif DM s'applique-t-il si une partie de l'électricité n'est pas pour l'habitation ?,tarifs-2026-p21-0,tarifs-2026,21
+t136,Quelles cotes de crédit de Fitch Ratings correspondent à chaque niveau de risque ?,conditions-service-2026-p97-2,conditions-service-2026,97
+t137,Qu'est-ce que la puissance interruptible et la période d'interruption dans l'option avec préavis ?,tarifs-2026-p134-1,tarifs-2026,134
+t138,À quels abonnements s'applique l'option d'électricité interruptible sans préavis ?,tarifs-2026-p137-0,tarifs-2026,137
+t139,Avant quelle date faut-il s'inscrire à l'option de gestion de la demande de puissance Engagement ?,tarifs-2026-p84-1,tarifs-2026,84
+t140,Quelle prime est soustraite du crédit fixe en cas de dépassement pendant un événement de pointe ?,tarifs-2026-p91-0,tarifs-2026,91
+t141,"Combien coûte une liaison aérosouterraine en basse tension, installation et remplacement ?",conditions-service-2026-p120-1,conditions-service-2026,120
+t142,Peut-on changer de sous-option de l'option Engagement pendant l'hiver ?,tarifs-2026-p85-0,tarifs-2026,85
+t143,Quels délais d'avis s'appliquent avant un événement de pointe de l'option Engagement ?,tarifs-2026-p87-2,tarifs-2026,87
+t144,À qui s'appliquent les modalités relatives aux essais d'équipements ?,tarifs-2026-p116-0,tarifs-2026,116
+t145,Dans quels cas Hydro-Québec peut-elle interrompre le service sans m'envoyer d'avis ?,conditions-service-2026-p36-1,conditions-service-2026,36
+t146,Sur combien de mois au maximum Hydro-Québec me rembourse-t-elle un montant facturé en trop ?,conditions-service-2026-p26-1,conditions-service-2026,26
+t147,Combien de fois peut-on augmenter sa puissance souscrite au tarif L ?,tarifs-2026-p64-1,tarifs-2026,64
+t148,Hydro-Québec peut-elle refuser une inscription au mesurage net option I ?,tarifs-2026-p28-0,tarifs-2026,28
+t149,À qui s'adresse le service Signature d'Hydro-Québec ?,tarifs-2026-p157-0,tarifs-2026,157
+t150,Que se passe-t-il s'il n'y a aucun avis d'événement de pointe pendant l'hiver pour la charge interruptible additionnelle ?,tarifs-2026-p93-2,tarifs-2026,93
+t151,Que se passe-t-il si mon installation sert à un usage cryptographique dans les 5 ans suivant la mise sous tension ?,conditions-service-2026-p63-1,conditions-service-2026,63
+t152,Les factures de la période de rodage peuvent-elles être rajustées ?,tarifs-2026-p113-3,tarifs-2026,113
+t153,Comment l'énergie effacée est-elle calculée lors d'un événement de pointe pour le crédit hivernal au tarif G ?,tarifs-2026-p40-1,tarifs-2026,40
+t154,Comment est facturée l'électricité supplémentaire quand la période chevauche le début de l'hiver ?,tarifs-2026-p110-1,tarifs-2026,110
+t155,"Si je suis admissible à plusieurs tarifs généraux, puis-je choisir ?",tarifs-2026-p151-0,tarifs-2026,151
+t156,Dans quels cas un client au tarif LG obtient-il un crédit pour interruption de la fourniture ?,tarifs-2026-p68-2,tarifs-2026,68
+t157,Quels critères comme la capitalisation boursière ou le pointage CRM servent à évaluer le risque ?,conditions-service-2026-p101-1,conditions-service-2026,101
+t158,Comment est calculé le coût des transformateurs à usage partagé en souterrain ?,conditions-service-2026-p152-0,conditions-service-2026,152
+t159,Combien coûte une ligne principale monophasée en aérien selon la capacité du coffret de branchement ?,conditions-service-2026-p118-1,conditions-service-2026,118
+t160,Quelles sont les heures de pointe pour l'option de crédit hivernal au tarif D ?,tarifs-2026-p31-0,tarifs-2026,31
