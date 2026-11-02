@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.vscode/
+.env
+
+# Documents officiels téléchargés : on publie le script, pas les PDF
+data/raw/
+data/processed/
+models/
